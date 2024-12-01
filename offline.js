@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1733063789,
+	"version": 1733065612,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -158,6 +158,7 @@
 		"images/portalstage3-sheet0.png",
 		"images/lava1-sheet0.png",
 		"images/sprite111-sheet0.png",
+		"images/sprite119-sheet0.png",
 		"media/yt1s.com - undertale ost 014  heartache.m4a",
 		"media/yt1s.com - undertale ost 014  heartache.ogg",
 		"media/yt1scom-sword-slash-sound-effects-mani-creation_jeajxhvk.m4a",
